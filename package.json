@@ -16,6 +16,8 @@
     "ios",
     "cpp",
     "RNAdMob.podspec",
+    "plugin/build",
+    "app.plugin.js",
     "!android/build",
     "!ios/build"
   ],
